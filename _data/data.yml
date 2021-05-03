@@ -49,10 +49,12 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      <p>•	10+ years of development experience in Embedded Firmware using C and MATLAB/Simulink.<br>
+      <p>
+      •	10+ years of development experience in Embedded Firmware using C and MATLAB/Simulink.<br>
       •	5+ years of experience in embedded hardware design and development.<br>
       •	Very good understanding of hardware and low level software systems.<br>
-      •	Experience across wide range of microcontrollers and development tools.</p>
+      •	Experience across wide range of microcontrollers and development tools.
+      </p>
 
 education:
     - degree: B.E. Electronics And Telecommunications
@@ -76,7 +78,7 @@ experiences:
           - Designing software architecture and working with development teams to get it developed.
           - Developing feature code using C or MATLAB/Simulink.
           - Writting MATLAB Scrits to develope automation tools.
-          - I have worked on AUTOSAR tools such as DaVinci Developer and DaVinci Configurator.  
+          - As an ECU integrator Worked on AUTOSAR tools such as DaVinci Developer and DaVinci Configurator.  
     - role: Freelancer
       time: 2014 - 2016
       company: Freelancer, Mumbai
