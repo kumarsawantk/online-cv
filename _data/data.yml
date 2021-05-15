@@ -199,19 +199,16 @@ skills:
 
     toolset:
       - name: Embedded C
-        level: 85%
-
-      - name: Simulink and Stateflow
-        level: 75%
-
+      - name: MATLAB (Simulink, Stateflow)
+      - name: MATLAB M Scripting
       - name: Embedded HW Design
-        level: 65%
-
       - name: AUTOSAR
-        level: 70%
-
-      - name: Vector DaVinci Developer and Configurator Tools
-        level: 75%
+      - name: Vector DaVinci Developer
+      - name: Vector DaVinci Configurator
+      - name: Low Level Driver Developement
+      - name: SVN and GitHub
+      - name: J1939, MODBUS RTU
+      - name: CAN, SPI, I2C, UART
 
 footer: >
    
