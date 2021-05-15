@@ -70,43 +70,96 @@ education:
           - Bullet point
 
 experiences:
-    - role: Lead Engineer
-      time: 2016 - Present
-      company: John Deere India, Pune
+    - role: John Deere India Pvt. Ltd., Pune 
+      time: Aug 2020 - Present
+      company: Lead Engineer
       details: |
-        Currently working as a Lead Engineer. The role involves following
-          - Designing software architecture and working with development teams to get it developed.
-          - Developing feature code using C or MATLAB/Simulink.
+        **Role:** Software System Engineer
+          - Working closely with Combine Harvester System Engineers to deeply understand system requirements and create a high level of software architecture.
+          - Help software delivery team to execute the feature delivery with quality.
           - Writting MATLAB Scrits to develope automation tools.
-          - As an ECU integrator Worked on AUTOSAR tools such as DaVinci Developer and DaVinci Configurator.  
-    - role: Freelancer
+          - ECU bring up.
+
+         **Role:** Software Reuse Lead
+          - Co-ordinate with different groups to plan and execute common features.
+          - Create high level of software architecture.
+          - Writting MATLAB Scrits to develope automation tools.
+          - ECU bring up.
+
+
+    - role: John Deere Harvester Works, Illinois (USA)  
+      time: Oct 2018 - July 2020
+      company: Engineer Product II (International Assignment)
+      details: |
+        **Role:** Reuse Software Architect
+          -	Worked closely with System Engineers to establish feature specifications for Powertrain Domain Controller and thoroughly understand system level requirements.
+          -	Based on System level requirements, developed Software Architecture in PREEVision for AUTOSAR based systems.
+          -	Partnered with India team, including ECU integrator and MBSD developers to complete ECU integration and Model development as per software requirements and architecture.
+
+
+    - role: John Deere India Pvt. Ltd., Pune 
+      time: Jan 2016 - Sep 2018
+      company: Senior Engineer
+      details: |
+        **Role:** ECU Integrator
+          -	AUTOSAR ECU bring up activity using DaVinci Configurator tool.
+          -	AUTOSAR Component development using DaVinci Developer tool.
+          -	Working with Software architects to resolve issue during integration.
+          -	Writing C code for CDD development.
+
+         **Role:** MATLAB Developer
+          - Designed, developed, and tested Simulink based Applications for use in Off road vehicle industry.
+          -	Developed firmware using John Deere Proprietary Real Time Operating System (RTOS) for different Vehicle controllers (Header Height Controller, CAB controller, Baler Interface Controller).
+          -	Reviewed legacy code to find potential bugs and provided solution to fix those.
+          -	Performed Software In Loop (SIL) testing before releasing payload to production.
+
+
+    - role: Freelancer, Mumbai
       time: 2014 - 2016
-      company: Freelancer, Mumbai
+      company: Freelancer
       details: |
-        I have worked as Freelance Developer and Consultant. Following are some of the highlights.
-          - Worked as software consultant for Sprylogic Technologies. In this role I have helped 
-            the organization in writting and adapting Embedded C coding guidelines.
-          - Worked with development teams in Sprylogic to help them deliver the projects on time with greate quality.
+         **Role:** Embedded Software Consultant
+          - Worked as software consultant for Sprylogic Technologies. In this role I have helped the organization in writing and adapting Embedded C coding guidelines.
+          - Worked with development teams in Sprylogic to help them deliver the projects on time with good quality.
+
+         **Role:** Embedded Freelancer
           - Worked as Freelance developer to deliver Firmware and Hardware solution to clients.
-          - As a Freelance developer the projects I worked on includes Electronic Manometer, 
-            Single Tier Orbital Shaker, Gas Analyzer and many more.
-    - role: Senior Embedded Developer
+          - As a Freelance developer the projects I worked on includes Electronic Manometer, Single Tier Orbital Shaker, Gas Analyzer and many more.
+
+
+    - role: Sprylogic Technologies Ltd, Mumbai
       time: 2010 - 2014
-      company: Sprylogic Technologies Ltd, Mumbai
+      company: Senior Embedded Developer
       details: |
-        The roles and responsibilities included Software Team lead and software architect for 
-        Fuel Dispenser and Home UPS Inverter project.
-          - As a software team lead, worked with team to deliver firmware for Multi-Product Fuel Dispenser.
-          - Developed driver level code for STM32, MSP430, Freescale Kinetis microcontroller.
-          - Developed reusable drivers for CAN, SPI, I2C, MODBUS RTU.
+        **Role:** Team Lead (Fuel Dispenser Project)
+          - Worked with client to define the software requirement.
+          - Designed high level system architecture for project.
+          -	Designed high level software architecture for project.
+          -	Worked with software team to deliver the software as per schedule
+
+        **Role:** Team Lead (Home UPS Inverter)
+          - Designed high level software architecture for project.
+          -	Helped in review of software feature.
+          -	Helped restructure the legacy code to make it modular.
+
+        **Role:** Software Developer
+          -	Wrote application code in Embedded C for Fuel Dispenser Application.
+          -	Designed and developed custom protocol over CAN for Fuel Dispenser application.
+          -	Developed driver level code for STM32, MSP430, Freescale Kinetis microcontroller.
+          -	Developed reusable drivers for CAN, SPI, I2C, MODBUS RTU.
+
 projects:
     title: Projects
     intro: >
 
     assignments:
-      - title: Muti-Product Fuel Dispenser
+      - title: Muti-Product Fuel Dispenser (Sprylogic Technologies)
         link: "#hook"
-        tagline: "Multi-Product Fuel Dispenser."
+        tagline: "<br>
+        - The project involved design of an Electronic Register Assembly (ERA) that forms the heart of a Fuel Dispenser.<br>
+        - It includes seven different modules, having Freescale Kinetis and MSP430 microcontroller onboard that controls the various functions of the Fuel Dispenser.<br>
+        - Communication protocols like CAN, I2C, SPI and RS485 are used for communication between various modules.<br>
+        - Design challenges included measurement accuracy for fuel dispensed, developing a tamper proof and modular architecture and robust operation under stringent operating conditions to meet the EMI/EMC test criteria.<br>"
 
       - title: Electronic Manometers
         link: "#"
@@ -123,9 +176,8 @@ projects:
 #publications:
     #title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+
+
     papers:
       - title: The Art of Computer Programming
         link: "#"
