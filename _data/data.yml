@@ -81,10 +81,9 @@ experiences:
           - ECU bring up.
 
          **Role:** Software Reuse Lead
-          - Co-ordinate with different groups to plan and execute common features.
+          - Co-ordinate with different groups to plan and execute delivery of common features.
           - Create high level of software architecture.
-          - Writting MATLAB Scrits to develope automation tools.
-          - ECU bring up.
+          - Develope processes for release and maintanance of common software features.
 
 
     - role: John Deere Harvester Works, Illinois (USA)  
@@ -115,20 +114,22 @@ experiences:
 
 
     - role: Freelancer, Mumbai
-      time: 2014 - 2016
+      time: April 2014 - Dec 2015
       company: Freelancer
       details: |
-         **Role:** Embedded Software Consultant
-          - Worked as software consultant for Sprylogic Technologies. In this role I have helped the organization in writing and adapting Embedded C coding guidelines.
+         **Role:** Embedded Software Consultant (Sprylogic Technologies Ltd)
+          - In this role I have helped the organization in writing and adapting Embedded C coding guidelines.
           - Worked with development teams in Sprylogic to help them deliver the projects on time with good quality.
 
          **Role:** Embedded Freelancer
           - Worked as Freelance developer to deliver Firmware and Hardware solution to clients.
-          - As a Freelance developer the projects I worked on includes Electronic Manometer, Single Tier Orbital Shaker, Gas Analyzer and many more.
-
+          - Designed and developed Firmware plus Hardware for Electonic Manometer application.
+          - Helped client in redesigning the Gas Analyzer Hardware which included reducing the BOM cost.
+          - Developed the firmware for Single Tier Orbital Shaker project.
+  
 
     - role: Sprylogic Technologies Ltd, Mumbai
-      time: 2010 - 2014
+      time: Aug 2010 - March 2014
       company: Senior Embedded Developer
       details: |
         **Role:** Team Lead (Fuel Dispenser Project)
@@ -148,38 +149,24 @@ experiences:
           -	Developed driver level code for STM32, MSP430, Freescale Kinetis microcontroller.
           -	Developed reusable drivers for CAN, SPI, I2C, MODBUS RTU.
 
+
 projects:
-    title: Projects
+    title: Accomplishments
     intro: >
 
     assignments:
-      - title: Muti-Product Fuel Dispenser (Sprylogic Technologies)
-        link: "#hook"
-        tagline: "<br>
-        - The project involved design of an Electronic Register Assembly (ERA) that forms the heart of a Fuel Dispenser.<br>
-        - It includes seven different modules, having Freescale Kinetis and MSP430 microcontroller onboard that controls the various functions of the Fuel Dispenser.<br>
-        - Communication protocols like CAN, I2C, SPI and RS485 are used for communication between various modules.<br>
-        - Design challenges included measurement accuracy for fuel dispensed, developing a tamper proof and modular architecture and robust operation under stringent operating conditions to meet the EMI/EMC test criteria.<br>"
+      - title: MATLAB Based Software Architecture Tool for AUTOSAR
+        #link: "#hook"
+        tagline: "Designed and Developed Simulink based Software Architecture tool for AUTOSAR based applications."
 
-      - title: Electronic Manometers
-        link: "#"
-        tagline: "Electronic Manometers."
 
-      - title: Combine Harvester
-        link: "#"
-        tagline: "Combine Harvester."
-
-      - title: Gas Analyzers
-        link: "#"
-        tagline: "Gas Analyzers."
-
-#publications:
-    #title: Publications
+#Following is not used.
+publications:
+    title: Accomplishments
     intro: |
 
-
     papers:
-      - title: The Art of Computer Programming
+      - title: 
         link: "#"
         authors: Donald E. Knuth
         conference: Addison-Wesley, 1968
@@ -209,6 +196,8 @@ skills:
       - name: SVN and GitHub
       - name: J1939, MODBUS RTU
       - name: CAN, SPI, I2C, UART
+      - name: Altium
+      - name: Visual Studio, STM32 Cube IDE
 
 footer: >
    
