@@ -159,28 +159,6 @@ projects:
         #link: "#hook"
         tagline: "Designed and Developed Simulink based Software Architecture tool for AUTOSAR based applications."
 
-
-#Following is not used.
-publications:
-    title: Accomplishments
-    intro: |
-
-    papers:
-      - title: 
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
-
 skills:
     title: Skills &amp; Proficiency
 
@@ -201,4 +179,4 @@ skills:
 
 footer: >
    
-    Click on the link to download <a href="https://kumarsawantk.github.io/online-cv/_data/KumarSawant_Embedded.pdf">LINK</a> PDF version of CV.
+    Click on the link to download <a href="https://kumarsawantk.github.io/online-cv/">LINK</a> PDF version of CV.
