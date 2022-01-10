@@ -67,8 +67,17 @@ education:
           - Bullet point
 
 experiences:
+    - role: StuffBits Technologies LLP., Pune 
+      time: Nov 2021 - Present
+      company: Senior Manager (Embedded Systems)
+      details: |
+        **Role:** Tech Lead
+          - Planning and delivery of Projects.
+          - Tranning new hires.
+          - End to End Product development
+          
     - role: John Deere India Pvt. Ltd., Pune 
-      time: Aug 2020 - Present
+      time: Aug 2020 - Nov 2021
       company: Lead Engineer
       details: |
         **Role:** Software System Engineer
