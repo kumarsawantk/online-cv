@@ -43,10 +43,7 @@ education:
       time: 2006 - 2010
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+
           - Bullet point
           - Bullet point
 
@@ -67,14 +64,14 @@ experiences:
         **Role:** Software System Engineer
           - Working closely with <a href="https://www.youtube.com/watch?v=1Gq77CfdGl4">**Combine Harvester**</a> System Engineers to deeply understand system requirements and create a high level of software architecture.
           - Help software delivery team to execute the feature delivery with quality.
-          - Writting MATLAB Scrits to develope automation tools.
-          - ECU bring up.
+          - Writting MATLAB Scrits to develope automation tools for AUTOSAR software architecture.
+          - AUTOSAR ECU bring up.
 
          **Role:** Software Reuse Lead
-          - Co-ordinate with different groups to plan and execute common features.
-          - Create high level of software architecture.
-          - Writting MATLAB Scrits to develope automation tools.
-          - ECU bring up.
+          - Co-ordinate with different groups to plan and execute common AUTOSAR features accross multipe platforms.
+          - Create high level of software architecture in PREEVision.
+          - Create a software requirement in PREEVision.
+          - Write automation scripts in PREEVision to improve efficiency. 
 
 
     - role: John Deere Harvester Works, Illinois (USA)  
@@ -121,7 +118,7 @@ experiences:
       time: 2010 - 2014
       company: Senior Embedded Developer
       details: |
-        **Role:** Team Lead (Fuel Dispenser Project)
+        **Role:** Team Lead (<a href="https://stuffbits.in/portfolio.html">Fuel Dispenser Project</a>)
           - Worked with client to define the software requirement.
           - Designed high level system architecture for project.
           -	Designed high level software architecture for project.
@@ -170,12 +167,13 @@ skills:
       - name: AUTOSAR
       - name: Vector DaVinci Developer
       - name: Vector DaVinci Configurator
+      - name: Vector Tools: CANape, CANanalyzer, CANdela Studio
       - name: PREEVision: Software and Logical Architecture
       - name: Embedded C
       - name: MATLAB (Simulink, Stateflow)
       - name: MATLAB M Scripting
       - name: SVN and GitHub
-      - name: J1939, MODBUS RTU
+      - name: J1939, Diagnostics, MODBUS RTU
       - name: CAN, SPI, I2C, UART
       - name: Embedded HW Design
       - name: Low Level Driver Developement
