@@ -166,19 +166,17 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: AUTOSAR
-      - name: Vector DaVinci Developer
-      - name: Vector DaVinci Configurator
-      - name: Vector Tools: CANape, CANanalyzer, CANdela Studio
-      - name: PREEVision: Software and Logical Architecture
       - name: Embedded C
       - name: MATLAB (Simulink, Stateflow)
       - name: MATLAB M Scripting
-      - name: SVN and GitHub
-      - name: J1939, Diagnostics, MODBUS RTU
-      - name: CAN, SPI, I2C, UART
       - name: Embedded HW Design
+      - name: AUTOSAR
+      - name: Vector DaVinci Developer
+      - name: Vector DaVinci Configurator
       - name: Low Level Driver Developement
+      - name: SVN and GitHub
+      - name: J1939, MODBUS RTU
+      - name: CAN, SPI, I2C, UART
 
 footer: >
    
