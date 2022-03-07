@@ -26,29 +26,13 @@ sidebar:
     #codewars:
     #goodreads: # Number-Username, e.g. 123456-alandoe
 
-    languages:
-      - idiom: Marathi
-        level: Native
-
-      - idiom: Hindi
-        level: Native
-
-      - idiom: English
-        level: Professional
-
-    interests:
-      - item: Technology
-        link:
-
-      - item: Stargazing
-        link:
           
 career-profile:
     title: Career Profile
     summary: |
       <p>
-      •	10+ years of development experience in Embedded Firmware using C and MATLAB/Simulink.<br>
-      •	5+ years of experience in embedded hardware design and development.<br>
+      •	11+ years of development experience in Embedded Firmware using C and MATLAB/Simulink.<br>
+      •	4+ years of experience into AUTOSAR software architecture, integration and development.<br>
       •	Very good understanding of hardware and low level software systems.<br>
       •	Experience across wide range of microcontrollers and development tools.
       </p>
@@ -69,19 +53,19 @@ education:
 experiences:
     - role: StuffBits Technologies LLP., Pune 
       time: Nov 2021 - Present
-      company: Senior Manager (Embedded Systems)
+      company: Senior Leader (Embedded Systems)
       details: |
         **Role:** Tech Lead
-          - Planning and delivery of Projects.
-          - Tranning new hires.
-          - End to End Product development
+          - Planning and Execution of Embedded Projects.
+          - Training new hires.
+          - End-to-End Embedded Product development.
           
     - role: John Deere India Pvt. Ltd., Pune 
       time: Aug 2020 - Nov 2021
       company: Lead Engineer
       details: |
         **Role:** Software System Engineer
-          - Working closely with Combine Harvester System Engineers to deeply understand system requirements and create a high level of software architecture.
+          - Working closely with <a href="https://www.youtube.com/watch?v=1Gq77CfdGl4">**Combine Harvester**</a> System Engineers to deeply understand system requirements and create a high level of software architecture.
           - Help software delivery team to execute the feature delivery with quality.
           - Writting MATLAB Scrits to develope automation tools.
           - ECU bring up.
@@ -108,10 +92,10 @@ experiences:
       company: Senior Engineer
       details: |
         **Role:** ECU Integrator
-          -	AUTOSAR ECU bring up activity using DaVinci Configurator tool.
-          -	AUTOSAR Component development using DaVinci Developer tool.
-          -	Working with Software architects to resolve issue during integration.
-          -	Writing C code for CDD development.
+          -	AUTOSAR ECU bring up activity using **DaVinci Configurator** tool.
+          -	AUTOSAR Component development using **DaVinci Developer** tool.
+          -	Working with Software architects to resolve issue during integration into Configurator.
+          -	Writing C code for AUTOSAR CDD (Complex Device Driver) development.
 
          **Role:** MATLAB Developer
           - Designed, developed, and tested Simulink based Applications for use in Off road vehicle industry.
@@ -183,18 +167,19 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Embedded C
-      - name: MATLAB (Simulink, Stateflow)
-      - name: MATLAB M Scripting
-      - name: Embedded HW Design
       - name: AUTOSAR
       - name: Vector DaVinci Developer
       - name: Vector DaVinci Configurator
-      - name: Low Level Driver Developement
+      - name: PREEVision: Software and Logical Architecture
+      - name: Embedded C
+      - name: MATLAB (Simulink, Stateflow)
+      - name: MATLAB M Scripting
       - name: SVN and GitHub
       - name: J1939, MODBUS RTU
       - name: CAN, SPI, I2C, UART
-
+      - name: Embedded HW Design
+      - name: Low Level Driver Developement
+      
 footer: >
    
-    Click on the link to download <a href="https://kumarsawantk.github.io/online-cv">LINK</a> PDF version of CV.
+    Click on the link <a href="https://kumarsawantk.github.io/online-cv">LINK</a> to view updated online version of Resume.
