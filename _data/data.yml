@@ -47,8 +47,8 @@ career-profile:
     title: Career Profile
     summary: |
       <p>
-      •	11+ years of development experience in Embedded Firmware using C and MATLAB/Simulink.<br>
-      •	4+ years of experience into AUTOSAR software architecture, integration and development.<br>
+      •	10+ years of development experience in Embedded Firmware using C and MATLAB/Simulink.<br>
+      •	5+ years of experience in embedded hardware design and development.<br>
       •	Very good understanding of hardware and low level software systems.<br>
       •	Experience across wide range of microcontrollers and development tools.
       </p>
@@ -183,19 +183,17 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: AUTOSAR
-      - name: Vector DaVinci Developer
-      - name: Vector DaVinci Configurator
-      - name: Vector Tools: CANape, CANanalyzer, CANdela Studio
-      - name: PREEVision: Software and Logical Architecture
       - name: Embedded C
       - name: MATLAB (Simulink, Stateflow)
       - name: MATLAB M Scripting
-      - name: SVN and GitHub
-      - name: J1939, Diagnostics, MODBUS RTU
-      - name: CAN, SPI, I2C, UART
       - name: Embedded HW Design
+      - name: AUTOSAR
+      - name: Vector DaVinci Developer
+      - name: Vector DaVinci Configurator
       - name: Low Level Driver Developement
+      - name: SVN and GitHub
+      - name: J1939, MODBUS RTU
+      - name: CAN, SPI, I2C, UART
 
 footer: >
    
