@@ -64,7 +64,7 @@ experiences:
       company: Lead Engineer
       details: |
         **Role:** Software System Engineer
-          - Working closely with Combine Harvester System Engineers to deeply understand system requirements and create a high level of software architecture.
+          - Working closely with <a href="https://www.youtube.com/watch?v=1Gq77CfdGl4">**Combine Harvester**</a> System Engineers to deeply understand system requirements and create a high level of software architecture.
           - Help software delivery team to execute the feature delivery with quality.
           - Writting MATLAB Scrits to develope automation tools.
           - ECU bring up.
@@ -166,7 +166,7 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: AUTOSAR
+      - name: AUTOSAR (Vector Certified)
       - name: Vector DaVinci Developer
       - name: Vector DaVinci Configurator
       - name: Embedded C
@@ -175,7 +175,7 @@ skills:
       - name: Embedded HW Design
       - name: Low Level Driver Developement
       - name: SVN and GitHub
-      - name: J1939, MODBUS RTU
+      - name: J1939, Diagnostic, MODBUS RTU
       - name: CAN, SPI, I2C, UART
 
 footer: >
