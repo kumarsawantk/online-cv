@@ -169,6 +169,7 @@ skills:
       - name: AUTOSAR (Vector Certified)
       - name: Vector DaVinci Developer
       - name: Vector DaVinci Configurator
+      - name: PREEVision
       - name: Embedded C
       - name: MATLAB (Simulink, Stateflow)
       - name: MATLAB M Scripting
@@ -180,4 +181,4 @@ skills:
 
 footer: >
    
-    Click on the link <a href="https://kumarsawantk.github.io/online-cv">LINK</a> to view updated online version of Resume.
+    Click on the <a href="https://kumarsawantk.github.io/online-cv">LINK</a> to view updated online version of Resume.
