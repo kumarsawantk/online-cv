@@ -91,10 +91,10 @@ experiences:
       company: Senior Engineer
       details: |
         **Role:** ECU Integrator
-          -	AUTOSAR ECU bring up activity using DaVinci Configurator tool.
-          -	AUTOSAR Component development using DaVinci Developer tool.
+          -	AUTOSAR ECU bring up activity using **DaVinci Configurator** tool.
+          -	AUTOSAR Component development using **DaVinci Developer** tool.
           -	Working with Software architects to resolve issue during integration.
-          -	Writing C code for CDD development.
+          -	Writing C code for AUTOSAR CDD (Complex Device Driver) development.
 
          **Role:** MATLAB Developer
           - Designed, developed, and tested Simulink based Applications for use in Off road vehicle industry.
