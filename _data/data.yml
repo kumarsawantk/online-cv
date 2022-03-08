@@ -56,7 +56,7 @@ experiences:
       details: |
         **Role:** Tech Lead
           - Planning and delivery of Projects.
-          - Tranning new hires.
+          - Training  new hires.
           - End to End Product development
           
     - role: John Deere India Pvt. Ltd., Pune 
@@ -66,14 +66,14 @@ experiences:
         **Role:** Software System Engineer
           - Working closely with <a href="https://www.youtube.com/watch?v=1Gq77CfdGl4">**Combine Harvester**</a> System Engineers to deeply understand system requirements and create a high level of software architecture.
           - Help software delivery team to execute the feature delivery with quality.
-          - Writting MATLAB Scrits to develope automation tools.
-          - ECU bring up.
+          - Writting MATLAB Scrits to develope automation tools for AUTOSAR software architecture.
+          - AUTOSAR ECU bring up.
 
          **Role:** Software Reuse Lead
-          - Co-ordinate with different groups to plan and execute common features.
-          - Create high level of software architecture.
-          - Writting MATLAB Scrits to develope automation tools.
-          - ECU bring up.
+          - Co-ordinate with different groups to plan and execute common AUTOSAR features accross multipe platforms.
+          - Create high level of software architecture in PREEVision.
+          - Create a software requirement in PREEVision.
+          - Write automation scripts in PREEVision to improve efficiency. 
 
 
     - role: John Deere Harvester Works, Illinois (USA)  
