@@ -166,13 +166,13 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
+      - name: AUTOSAR
+      - name: Vector DaVinci Developer
+      - name: Vector DaVinci Configurator
       - name: Embedded C
       - name: MATLAB (Simulink, Stateflow)
       - name: MATLAB M Scripting
       - name: Embedded HW Design
-      - name: AUTOSAR
-      - name: Vector DaVinci Developer
-      - name: Vector DaVinci Configurator
       - name: Low Level Driver Developement
       - name: SVN and GitHub
       - name: J1939, MODBUS RTU
