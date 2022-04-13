@@ -1,199 +1,184 @@
 #
-# Be aware that even a small syntax error here can lead to failures in output. 
+# Be aware that even a small syntax error here can lead to failures in output.
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Kumar Sawant
+    tagline: Embedded Systems
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
-    gitlab:
+    email: kumarsawantk@gmail.com
+    phone: +91 9702168576
+    #website: blog.webjeda.com #do not add http://
+    linkedin: kumarsawantk
+    #xing: alandoe
+    github: kumarsawantk
+    #telegram: # add your nickname without '@' sign
+    #gitlab:
     bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-
-    languages:
-      - idiom: English
-        level: Native
-
-      - idiom: French
-        level: Professional
-
-      - idiom: Spanish
-        level: Professional
-        
-    interests:
-      - item: Climbing
-        link:
-
-      - item: Snowboarding
-        link:
-
-      - item: Cooking
-        link:
+    #twitter: '@webjeda'
+    #stack-overflow: # Number/Username, e.g. 123456/alandoe
+    #codewars:
+    #goodreads: # Number-Username, e.g. 123456-alandoe
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-
-      Second paragraph if required.
+      <p>
+      •	11+ years of development experience in Embedded Firmware using C and MATLAB/Simulink.<br>
+      •	4+ years of experience into AUTOSAR software architecture, integration and development.<br>
+      •	Very good understanding of hardware and low level software systems.<br>
+      •	Experience across wide range of microcontrollers and development tools.
+      </p>
 
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: B.E. Electronics And Telecommunications
+      university: University of Pune
+      time: 2006 - 2010
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
         sociis natoque penatibus et magnis dis parturient montes, nascetur
         ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
         pretium quis, sem.
-
           - Bullet point
-          - Bullet point 
-
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
           - Bullet point
-          - Bullet point 
 
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: StuffBits Technologies LLP., Pune 
+      time: Nov 2021 - Present
+      company: Senior Consultant (Embedded Systems)
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-
-          - Bullet point
-          - Bullet point 
-
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+        **Role:** Senior Lead
+          - PREEvision Architecture.
+          - Defining AUTOSAR workflow.
+          - Helping team in day to day activity.
+          
+    - role: John Deere India Pvt. Ltd., Pune 
+      time: Aug 2020 - Nov 2021
+      company: Lead Engineer
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        **Role:** Software System Engineer
+          - Working closely with <a href="https://www.youtube.com/watch?v=1Gq77CfdGl4">**Combine Harvester**</a> System Engineers to deeply understand system requirements and create a high level of software architecture.
+          - Help software delivery team to execute the feature delivery with quality.
+          - Writting MATLAB Scrits to develope automation tools for AUTOSAR software architecture.
+          - AUTOSAR ECU bring up.
 
-          - Bullet point
-          - Bullet point
+         **Role:** Software Reuse Lead
+          - Co-ordinate with different groups to plan and execute common AUTOSAR features accross multipe platforms.
+          - Create high level of software architecture in PREEVision.
+          - Create a software requirement in PREEVision.
+          - Write automation scripts in PREEVision to improve efficiency. 
 
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+
+    - role: John Deere Harvester Works, Illinois (USA)  
+      time: Oct 2018 - July 2020
+      company: Engineer Product II (International Assignment)
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        **Role:** Reuse Software Architect
+          -	Worked closely with System Engineers to establish feature specifications for Powertrain Domain Controller and thoroughly understand system level requirements.
+          -	Based on System level requirements, developed Software Architecture in PREEVision for AUTOSAR based systems.
+          -	Partnered with India team, including ECU integrator and MBSD developers to complete ECU integration and Model development as per software requirements and architecture.
 
-          - Bullet point
-          - Bullet point
+
+    - role: John Deere India Pvt. Ltd., Pune 
+      time: Jan 2016 - Sep 2018
+      company: Senior Engineer
+      details: |
+        **Role:** ECU Integrator
+          -	AUTOSAR ECU bring up activity using **DaVinci Configurator** tool.
+          -	AUTOSAR Component development using **DaVinci Developer** tool.
+          -	Working with Software architects to resolve issue during integration.
+          -	Writing C code for AUTOSAR CDD (Complex Device Driver) development.
+
+         **Role:** MATLAB Developer
+          - Designed, developed, and tested Simulink based Applications for use in Off road vehicle industry.
+          -	Developed firmware using John Deere Proprietary Real Time Operating System (RTOS) for different Vehicle controllers (Header Height Controller, CAB controller, Baler Interface Controller).
+          -	Reviewed legacy code to find potential bugs and provided solution to fix those.
+          -	Performed Software In Loop (SIL) testing before releasing payload to production.
+
+
+    - role: Freelancer, Mumbai
+      time: 2014 - 2016
+      company: Freelancer
+      details: |
+         **Role:** Embedded Software Consultant
+          - Worked as software consultant for Sprylogic Technologies. In this role I have helped the organization in writing and adapting Embedded C coding guidelines.
+          - Worked with development teams in Sprylogic to help them deliver the projects on time with good quality.
+
+         **Role:** Embedded Freelancer
+          - Worked as Freelance developer to deliver Firmware and Hardware solution to clients.
+          - As a Freelance developer the projects I worked on includes Electronic Manometer, Single Tier Orbital Shaker, Gas Analyzer and many more.
+
+
+    - role: Sprylogic Technologies Ltd, Mumbai
+      time: 2010 - 2014
+      company: Senior Embedded Developer
+      details: |
+        **Role:** Team Lead (Fuel Dispenser Project)
+          - Worked with client to define the software requirement.
+          - Designed high level system architecture for project.
+          -	Designed high level software architecture for project.
+          -	Worked with software team to deliver the software as per schedule
+
+        **Role:** Team Lead (Home UPS Inverter)
+          - Designed high level software architecture for project.
+          -	Helped in review of software feature.
+          -	Helped restructure the legacy code to make it modular.
+
+        **Role:** Software Developer
+          -	Wrote application code in Embedded C for Fuel Dispenser Application.
+          -	Designed and developed custom protocol over CAN for Fuel Dispenser application.
+          -	Developed driver level code for STM32, MSP430, Freescale Kinetis microcontroller.
+          -	Developed reusable drivers for CAN, SPI, I2C, MODBUS RTU.
 
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
 
     assignments:
-      - title: Velocity
+      - title: Muti-Product Fuel Dispenser (Sprylogic Technologies)
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: "<br>
+        - The project involved design of an Electronic Register Assembly (ERA) that forms the heart of a Fuel Dispenser.<br>
+        - It includes seven different modules, having Freescale Kinetis and MSP430 microcontroller onboard that controls the various functions of the Fuel Dispenser.<br>
+        - Communication protocols like CAN, I2C, SPI and RS485 are used for communication between various modules.<br>
+        - Design challenges included measurement accuracy for fuel dispensed, developing a tamper proof and modular architecture and robust operation under stringent operating conditions to meet the EMI/EMC test criteria.<br>"
 
-      - title: DevStudio
+      - title: Electronic Manometers
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "Electronic Manometers."
 
-      - title: Tempo
+      - title: Combine Harvester
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: "Combine Harvester."
 
-      - title: Atom
+      - title: Gas Analyzers
         link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-
-    papers:
-      - title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+        tagline: "Gas Analyzers."
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
-
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: AUTOSAR (Vector Certified)
+      - name: Vector DaVinci Developer
+      - name: Vector DaVinci Configurator
+      - name: PREEVision
+      - name: Embedded C
+      - name: MATLAB (Simulink, Stateflow)
+      - name: MATLAB M Scripting
+      - name: Embedded HW Design
+      - name: Low Level Driver Developement
+      - name: SVN and GitHub
+      - name: J1939, Diagnostic, MODBUS RTU
+      - name: CAN, SPI, I2C, UART
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+   
+    Click on the <a href="https://kumarsawantk.github.io/online-cv">LINK</a> to view updated online version of Resume.
