@@ -30,8 +30,8 @@ career-profile:
     title: Career Profile
     summary: |
       <p>
-      •	11+ years of development experience in Embedded Firmware using C and MATLAB/Simulink.<br>
       •	4+ years of experience into AUTOSAR software architecture, integration and development.<br>
+      •	11+ years of development experience in Embedded Firmware using C and MATLAB/Simulink.<br>
       •	Very good understanding of hardware and low level software systems.<br>
       •	Experience across wide range of microcontrollers and development tools.
       </p>
@@ -52,29 +52,29 @@ education:
 experiences:
     - role: StuffBits Technologies LLP., Pune 
       time: Nov 2021 - Present
-      company: Senior Development Lead (Embedded Systems)
+      company: Senior Consultant (Embedded Systems)
       details: |
-        **Role:** Tech Lead
-          - Planning and delivery of Projects.
-          - Training  new hires.
-          - End to End Product development
+        **Role:** AUTOSAR Lead
+          - PREEvision Architecture.
+          - Defining AUTOSAR workflow.
+          - Helping team in day to day activity.
           
     - role: John Deere India Pvt. Ltd., Pune 
       time: Aug 2020 - Nov 2021
       company: Lead Engineer
       details: |
+         **Role:** Software Reuse Lead
+          - NMAS implementation for Vehicle ECUs in **PREEVision**.
+          - Create high level of software architecture in **PREEVision**.
+          - Design Reusable ECU/Software architecture in **PREEVision**.
+          - Write metric's in PREEVision to improve efficiency through Automation.
+            e.g. - Metric to Create Internal Behavior of the SWC.
+                 - Metric to create requirement template from SWC. 
+          
         **Role:** Software System Engineer
           - Working closely with <a href="https://www.youtube.com/watch?v=1Gq77CfdGl4">**Combine Harvester**</a> System Engineers to deeply understand system requirements and create a high level of software architecture.
-          - Help software delivery team to execute the feature delivery with quality.
-          - Writting MATLAB Scrits to develope automation tools for AUTOSAR software architecture.
-          - AUTOSAR ECU bring up.
-
-         **Role:** Software Reuse Lead
-          - Co-ordinate with different groups to plan and execute common AUTOSAR features accross multipe platforms.
-          - Create high level of software architecture in PREEVision.
-          - Create a software requirement in PREEVision.
-          - Write automation scripts in PREEVision to improve efficiency. 
-
+          - Creating logical architecture for features in **PREEVision**..
+          - Writing feature requirements in **PREEVision**.
 
     - role: John Deere Harvester Works, Illinois (USA)  
       time: Oct 2018 - July 2020
@@ -82,7 +82,7 @@ experiences:
       details: |
         **Role:** Reuse Software Architect
           -	Worked closely with System Engineers to establish feature specifications for Powertrain Domain Controller and thoroughly understand system level requirements.
-          -	Based on System level requirements, developed Software Architecture in PREEVision for AUTOSAR based systems.
+          -	Based on System level requirements, developed Software Architecture in **PREEVision** for AUTOSAR based systems.
           -	Partnered with India team, including ECU integrator and MBSD developers to complete ECU integration and Model development as per software requirements and architecture.
 
 
