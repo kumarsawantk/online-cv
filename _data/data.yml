@@ -68,12 +68,10 @@ experiences:
           - Create high level of software architecture in **PREEVision**.
           - Design Reusable ECU/Software architecture in **PREEVision**.
           - Write metric's in PREEVision to improve efficiency through Automation.
-            e.g. - Metric to Create Internal Behavior of the SWC.
-                 - Metric to create requirement template from SWC. 
           
         **Role:** Software System Engineer
           - Working closely with <a href="https://www.youtube.com/watch?v=1Gq77CfdGl4">**Combine Harvester**</a> System Engineers to deeply understand system requirements and create a high level of software architecture.
-          - Creating logical architecture for features in **PREEVision**..
+          - Creating logical architecture for features in **PREEVision**.
           - Writing feature requirements in **PREEVision**.
 
     - role: John Deere Harvester Works, Illinois (USA)  
@@ -167,9 +165,9 @@ skills:
 
     toolset:
       - name: AUTOSAR (Vector Certified)
+      - name: PREEVision
       - name: Vector DaVinci Developer
       - name: Vector DaVinci Configurator
-      - name: PREEVision
       - name: Embedded C
       - name: MATLAB (Simulink, Stateflow)
       - name: MATLAB M Scripting
