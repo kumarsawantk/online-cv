@@ -65,9 +65,8 @@ experiences:
       details: |
         **Role:** Software System Engineer
           - Working closely with <a href="https://www.youtube.com/watch?v=1Gq77CfdGl4">**Combine Harvester**</a> System Engineers to deeply understand system requirements and create a high level of software architecture.
-          - Help software delivery team to execute the feature delivery with quality.
-          - Writting MATLAB Scrits to develope automation tools for AUTOSAR software architecture.
-          - AUTOSAR ECU bring up.
+          - Creating logical architecture for features in **PREEVision**.
+          - Writing feature requirements in **PREEVision**.
 
          **Role:** Software Reuse Lead
           - NMAS implementation for Vehicle ECUs in PREEVision.
