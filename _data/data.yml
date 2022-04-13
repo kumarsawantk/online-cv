@@ -70,10 +70,10 @@ experiences:
           - AUTOSAR ECU bring up.
 
          **Role:** Software Reuse Lead
-          - Co-ordinate with different groups to plan and execute common AUTOSAR features accross multipe platforms.
-          - Create high level of software architecture in PREEVision.
-          - Create a software requirement in PREEVision.
-          - Write automation scripts in PREEVision to improve efficiency. 
+          - NMAS implementation for Vehicle ECUs in **PREEVision**.
+          - Create high level of software architecture in **PREEVision**.
+          - Design Reusable ECU/Software architecture in **PREEVision**.
+          - Write metric's in PREEVision to improve efficiency through Automation.
 
 
     - role: John Deere Harvester Works, Illinois (USA)  
